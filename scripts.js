@@ -27,7 +27,7 @@ function alertar(event){
                      "\n complemento: " + complemento.value +
                      "\n bairro: " + bairro.value +
                      "\n cidade: " + cidade.value +
-                     "\n estado: " + estado.value;
+                     "\n estado: " + estado.value; 
 
 
                     
